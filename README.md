@@ -3,6 +3,8 @@
 [![docker-image-ci-7](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-7.yml/badge.svg)](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-7.yml)
 [![docker-image-ci-8](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-8.yml/badge.svg)](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-8.yml)
 
+> View the version with Zsh and utilities: https://github.com/rea1shane/docker-centos
+
 No frills, simple Docker CentOS with sshd.
 
 The default password for root is `1`.
