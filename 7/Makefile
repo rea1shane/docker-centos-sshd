@@ -10,4 +10,4 @@ run:
 		rea1shane/centos-sshd:7
 
 test:
-	@make run HOSTNAME=centos-sshd-7
+	@make run HOSTNAME=tester7
