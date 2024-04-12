@@ -6,15 +6,15 @@ The default password for root is `1`.
 
 ```shell
 docker run -d \
-    --name tester8 \
-    --hostname tester8 \
+    --name centos8 \
+    --hostname centos8 \
     rea1shane/centos-sshd:8
 ```
 
 or
 
 ```shell
-make run HOSTNAME=tester8
+make run HOSTNAME=centos8
 ```
 
 ## Build
