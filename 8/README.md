@@ -1,4 +1,4 @@
-# CentOS 7 with sshd
+# CentOS 8 with sshd
 
 The default password for root is `1`.
 
@@ -6,15 +6,15 @@ The default password for root is `1`.
 
 ```shell
 docker run -d \
-    --name tester7 \
-    --hostname tester7 \
-    rea1shane/centos-sshd:7
+    --name tester8 \
+    --hostname tester8 \
+    rea1shane/centos-sshd:8
 ```
 
 or
 
 ```shell
-make run HOSTNAME=tester7
+make run HOSTNAME=tester8
 ```
 
 ## Build
