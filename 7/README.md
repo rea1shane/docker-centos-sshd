@@ -1,4 +1,4 @@
-# CentOS 7 with sshd
+# Docker CentOS 7 with sshd
 
 The default password for root is `1`.
 
