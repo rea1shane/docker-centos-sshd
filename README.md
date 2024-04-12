@@ -5,6 +5,8 @@
 
 No frills, simple Docker CentOS with sshd.
 
+The default password for root is `1`.
+
 ## Usage
 
 Run CentOS 7 based image:
