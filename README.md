@@ -1,9 +1,9 @@
-# CentOS with sshd
+# Docker CentOS with sshd
 
 [![docker-image-ci-7](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-7.yml/badge.svg)](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-7.yml)
 [![docker-image-ci-8](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-8.yml/badge.svg)](https://github.com/rea1shane/docker-centos-sshd/actions/workflows/docker-image-ci-8.yml)
 
-No frills, simple CentOS with sshd.
+No frills, simple Docker CentOS with sshd.
 
 ## Usage
 
